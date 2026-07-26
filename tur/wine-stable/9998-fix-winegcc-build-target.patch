@@ -1,4 +1,4 @@
---- a/tools/winegcc/winegcc.c.orig
+--- a/tools/winegcc/winegcc.c
 +++ b/tools/winegcc/winegcc.c
 @@ -430,8 +430,17 @@
      {
